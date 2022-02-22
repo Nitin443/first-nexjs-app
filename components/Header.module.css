@@ -1,0 +1,15 @@
+.header{
+    background-color: lightgreen;
+    padding-top: 1rem;
+    padding-left: 2rem;
+    display: flex;
+}
+
+.header h2{
+    margin-top: 0%;
+}
+
+.title{
+    display: flex;
+    flex-direction: row;
+}
