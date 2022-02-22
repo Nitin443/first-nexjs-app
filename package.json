@@ -14,7 +14,8 @@
     "next": "12.1.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "survey-creator": "^1.9.14"
+    "react-router-dom": "^6.2.1",
+    "survey-react": "^1.9.14"
   },
   "devDependencies": {
     "@types/node": "17.0.18",
